@@ -20,7 +20,7 @@ body {
 }
 
 .aboutus {
-	padding-left: 217px;
+	padding-left: 166px;
 }
 </style>
 <script type="text/javascript">
@@ -55,9 +55,9 @@ $('#main').ready(function(){
 	<div class="container_16" id="content">
 		
 		<div class="grid_16 content" id="three_col">
-			<h2>Quick select menu</h2>
+			<h2>About Us</h2>
 			<p>
-				<img src="images/aboutusbig.jpg" alt="aboutus" />
+				<img src="images/coverpage.jpg" alt="aboutus" />
 				Pharmagene is an open access journal from Parul Institute of Pharmacy devoted to various disciplines in 
 				Pharmacy.  The Journal is freely accessible via the Internet for immediate worldwide, open access to the full 
 				text of articles serving the best interests of the scientific community. Pharmagene publishes original 

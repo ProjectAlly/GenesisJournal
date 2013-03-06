@@ -52,58 +52,75 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 		<div class="grid_11 content" id="two_col">
 		<h2>Editorial Board</h2>
 		<table>
-			<tr><td>
-				<h4>Chairman</h4>
-			</td></tr>
-			<tr><td>
-				Dr. Devanshu J. Patel
-			</td></tr>
-			<tr><td>&nbsp;</td></tr>
-			<tr><td>
-				<h4>Managing Editor</h4>
-			</td></tr>
-			<tr><td>
-				Dr. Rajesh K.S.
-			</td></tr>
-			<tr><td>&nbsp;</td></tr>
-			<tr><td>
-				<h4>Chief Editors</h4>
-			</td></tr>
-			<tr><td>
-				Dr. Prafulla Sabale
-			</td></tr>
-			<tr><td>
-				Dr. B. K. Sridhar
-			</td></tr>
-			<tr><td>&nbsp;</td></tr>
-			<tr><td>
-				<h4>Associate Editors</h4>
-			</td></tr>
-			<tr><td>
-				Mr. Parag Patel
-			</td></tr>
-			<tr><td>
-				Mr. Rikin Patel
-			</td></tr>
-			<tr><td>&nbsp;</td></tr>
-			<tr><td>
-				<h4>Advisory Editorial Board Members</h4>
-			</td></tr>
-			<tr><td>
-				Prof. Dr. N. Udupa
-			</td></tr>
-			<tr><td>
-				Prof. Dr. Betgeri G. V.
-			</td></tr>
-			<tr><td>
-				Dr. N. Ganesh
-			</td></tr>
-			<tr><td>
-				Dr. Andreas Bernkop Schnurch
-			</td></tr>
-			<tr><td>
-				Prof. Larry Goodyer
-			</td></tr>
+			<tr>
+                <td><h4>Chairman</h4></td>
+            </tr>
+			<tr>
+                <td>Dr. Devanshu J. Patel</td>
+            </tr>
+			<tr>
+                <td>&nbsp;</td>
+            </tr>
+			<tr>
+                <td><h4>Managing Editor</h4></td>
+            </tr>
+			<tr>
+                <td>Dr. Rajesh K.S.</td>
+            </tr>
+			<tr>
+                <td>&nbsp;</td>
+            </tr>
+			<tr>
+                <td><h4>Chief Editors</h4></td>
+            </tr>
+			<tr>
+                <td>Dr. Prafulla Sabale</td>
+            </tr>
+			<tr>
+                <td>Dr. B. K. Sridhar</td>
+            </tr>
+			<tr>
+                <td>&nbsp;</td>
+            </tr>
+			<tr>
+                <td><h4>Associate Editors</h4></td>
+            </tr>
+			<tr>
+                <td>Mr. Parag Patel</td>
+            </tr>
+			<tr>
+                <td>Mr. Rikin Patel</td>
+            </tr>
+			<tr>
+                <td>&nbsp;</td>
+            </tr>
+			<tr>
+                <td><h4>Advisory Editorial Board Members</h4></td>
+            </tr>
+			<tr>
+                <td>Prof. Dr. N. Udupa</td>
+            </tr>
+			<tr>
+                <td>Prof. Dr. Betgeri G. V.	</td>
+            </tr>
+			<tr>
+                <td>Dr. N. Ganesh</td>
+            </tr>
+			<tr>
+                <td>Dr. Andreas Bernkop Schnurch</td>
+            </tr>
+			<tr>
+                <td>Prof. Larry Goodyer</td>
+            </tr>
+            <tr>
+                <td><h4>Editorial Board Members</h4></td>
+            </tr>
+            <tr>
+                <td>Prof. Dr. J. K. Patel</td>
+            </tr>
+            <tr>
+                <td>Prof. Dr. T. Y. Pasha</td>
+            </tr>
 		</table>
 		</div><!-- /#two_col -->
 

@@ -58,7 +58,9 @@ body {
 			The publishers are confident of the journal's rapid success.
 			</p>
 		</div><!-- /#left -->
-		<div class="grid_5 news" id="one_col">
+		<div class="grid_5" id="one_col">
+            <?php include ('sidebar.php'); ?>
+            <!--
 			<h2>News &amp; Events</h2>
 			<ul>
 			<li>
@@ -84,7 +86,7 @@ body {
 			</li>
 			</ul>
 			<a href="blog.html" id="moreNews">more news</a>
-			
+			-->
 			<!--<h2>Testimonials</h2>
 			<div id="testimonials">
 				<div>

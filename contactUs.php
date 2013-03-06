@@ -55,9 +55,10 @@ $('#main').ready(function(){
 		<h2>Contact Information</h2>
 		<h3>Editorial Office</h3>
 		<p>
-		<b>Dr. Rajesh K.S.</b><br/>
-		Parul Institute of Pharmacy, Limda<br/>
-		Waghodia-391760, Vadodara<br/>
+		<b>A Genesis Journals</b><br/>
+		Parul Arogya Seva Mandal,<br/>
+		P.O. Limda, Tal. Waghodia,<br/>
+        Vadodara-391760<br/>
 		Tel. No. 02668-262327<br/>
 		E Mail: <a href="mailto:editorpharmagene@gmail.com">editorpharmagene@gmail.com</a><br/>
 		</p>

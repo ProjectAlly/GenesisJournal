@@ -2,7 +2,7 @@
 <ul>
     <li>
         <img src="images/pages/join.png" width="20" height="20"/>
-        <a href="joinAsReviewer.php">Instruction to Authors </a>
+        <a href="instructions.php">Instruction to Authors </a>
     </li>
     <li>
         <img src="images/pages/submit.jpg" width="20" height="20"/>
@@ -10,11 +10,11 @@
     </li>
     <li>
         <img src="images/pages/submit.jpg" width="20" height="20"/>
-        <a href="submitArticle.php">Copyright Transfer Form</a>
+        <a href="copyright.php">Copyright Transfer Form</a>
     </li>
     <li>
         <img src="images/pages/submit.jpg" width="20" height="20"/>
-        <a href="submitArticle.php">Join Editorial Board</a>
+        <a href="joinEditorialBoard.php">Join Editorial Board</a>
     </li>
     <li>
         <img src="images/pages/join.png" width="20" height="20"/>

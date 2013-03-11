@@ -44,7 +44,7 @@ $('#main').ready(function(){
 		<!-- SUBMENU -->
 		<div class="grid_16" id="display">
 			<ul id="subNavigation">
-				<li><a href="contact.html" class="current">JOIN OUR BOARD - BE A PART OF PHARMAGENE</a></li>
+				<li><a href="contact.html" class="current">Know us better</a></li>
 			</ul>
 		</div>
 		<!-- /SUBMENU -->
@@ -55,26 +55,29 @@ $('#main').ready(function(){
 	<div class="container_16" id="content">
 		
 		<div class="grid_11 content" id="two_col">
-			<h2>Join as a Reviwer</h2>
-			<p>
-			Pharmagene will be pleased to accept your services as
-			 experts in various fields of Pharmaceutical sciences as Reviewer. 
-			 Reviewer must have at least three years of experience in the relevant 
-			 field after completion of the education and at least three original
-			  research papers in journal. Interested Faculty members, Researchers, 
-			  Managers from organizations and institutions are requested to join us 
-			  as Reviewers. 
+			<br/>
+			<p align="center"><b>TWO DAYS SEMINAR</b> on 16th & 17th March, 2013<br/>
+			<b>"Quality by Design: An essential requirement in Pharmaceutical Industry"</b><br/><br/>
+			Organized by<br/>
+			Gujarat Technological University<br/>
+			In<br/>
+			Collaboration with <br/>
+			Leicester School of Pharmacy, U.K.</p>
+			<br/>
+			<p style="text-align: justify">
+			We are pleased to inform you that, Parul Institute of Pharmacy and 
+			Parul Institute of Pharmacy and Research are hosting the Two Days' 
+			Seminar on <b>"Quality by Design: An essential requirement in Pharmaceutical 
+			Industry"</b> organized by GTU, Ahmedabad in collaboration with Leicester 
+			School of pharmacy, UK. 
 			</p>
-			<p>
-			  Please mail us your biodata with passport size photograph along 
-			  with consent form to <a href="mailto:pharmagenejournal@gmail.com">pharmagenejournal@gmail.com</a>. 
+			<p style="text-align: justify">
+			As QbD can be applied in many fields of pharmaceutical industry viz. 
+			product development, analytical method development, formulation development, 
+			manufacturing etc., it is our effort to imbibe the aptitude of using QbD 
+			in the existing & budding pharmacy-professionals, including Post-Graduate 
+			students, Research Scholars, Academicians and Industrial persons. 
 			</p>
-			<p><b>Consent form is availaible for download.</b><br/>
-			    <a href="data/Reviewer consent form.pdf" target="_blank">
-					<img src="images/pages/download_button.png" align="middle" height="20%" width="20%"/>
-				</a>
-			</p>
-			
 		</div><!-- /#left -->
 		<div class="grid_5" id="one_col">
 			<?php include ('sidebar.php'); ?>

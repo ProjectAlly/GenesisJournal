@@ -54,35 +54,57 @@ $('#main').ready(function(){
 			
 	<div class="container_16" id="content">
 		
-		<div class="grid_16 content" id="three_col">
-			<h2>About Us</h2>
+		<div class="grid_11 content" id="two_col">
+			<h2>About Genesis Journal</h2>
 			<p>
-				<img src="images/coverpage.jpg" alt="aboutus" />
-				Pharmagene is an open access journal from Parul Institute of Pharmacy devoted to various disciplines in 
-				Pharmacy.  The Journal is freely accessible via the Internet for immediate worldwide, open access to the full 
-				text of articles serving the best interests of the scientific community. Pharmagene publishes original 
-				research work either as a full research paper or as a short communication, review articles on current 
-				topics in 
+				Genesis Journal is an official publication from "Parul Arogya Seva Mandal", 
+				a registered trust (www.parul.ac.in) started to promote
+				educational activities since 1989 under the guidance of visionary
+				person and founder chairman Dr. Jayesh K. Patel.
 			</p>
-			<ul>
-				<li>Pharmaceutical Technology</li>
-				<li>Pharmaceutics</li>
-				<li>Novel Drug Delivery</li>
-				<li>Biopharmaceutics</li>
-				<li>Pharmacokinetics</li>
-				<li>Pharmaceutical/Computational Chemistry and Molecular Drug Design</li>
-				<li>Pharmacognosy and Phytochemistry</li>
-				<li>Natural Product Research</li>
-				<li class="aboutus">Pharmacology</li>
-				<li class="aboutus">Pharmaceutical Analysis</li>
-				<li class="aboutus">Hospital Pharmacy</li>
-				<li class="aboutus">Cell Biology</li>
-				<li class="aboutus">Genomics and Proteomics </li>
-				<li class="aboutus">Pharmacogenomics</li>
-				<li class="aboutus">Bioinformatics</li>
-				<li class="aboutus">Biotechnology</li>
-			</ul>
+			<blockquote>
+			<h4>Vision</h4>
+			<p>To establish a <b>'Gurukulam Par Excellence'</b> by making 'quality' an
+			element of education.</p>
+			</blockquote>
+			<br/>
+			<blockquote>
+			<h4>Mission</h4>
+			<p>To transform the students in a way that will bring a new value
+			system in their thought process, create and innovate newer things
+			for the benefit of society as a whole.</p>			
+			</blockquote>
+			<p style="text-align: justify">
+				Genesis journal is a scientific, educational and professional publication of 
+				"Parul Arogya Seva Mandal" trust committed to promote the highest professional
+				and ethical standards of research and development activity and to work for 
+				the growth, development and betterment in the field of professional,
+				medical and paramedical education. 
+			</p>
+			<p style="text-align: justify">
+				Pharmagene is a quarterly peer reviewed journal published by Genesis Journals 
+				aiming to communicate high quality original research work, reviews and short 
+				communications and propagate the knowledge base related to the 
+				field of Pharmaceutical sciences.
+			</p>
+			<p style="text-align: center">
+				<b>
+				Parul Group of Institutes</b> is an hub comprising of more than 18
+				self financed Institutes located in a campus of 100 acres providing
+				world-class professional, medical and paramedical
+				ranging from Pharmacy, Engineering and Technology, Computer
+				Application, Management, Architecture, Homoeopathy, Ayurveda,
+				Physiotherapy, Hotel Management,
+				education etc. with more than 15000 students & 1000 teachers.
+				courses Social Work, Teacher.<br/>
+				<b><a href="http://www.parul.ac.in" target="_blank">Click to view details of the Institute</a></b>
+			</p>
+
 		</div><!-- /#left -->
+		<div class="grid_5" id="one_col">
+			<?php include ('sidebar.php'); ?>
+
+		</div><!-- /#right -->
 		<div class="clear"></div>
 		
 	</div><!-- /#content -->

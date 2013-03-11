@@ -8,10 +8,10 @@
 		</div>
 		<div class="clear"></div>
 		<ul>
-			<li><a href="index.html">Home</a></li>
+			<li><a href="index.php">Home</a></li>
 			<li><a href="subscribe.php">Subscribe</a></li>
 			<li>
-				<a href="blog.html">News</a>
+				<a href="news.php">News</a>
 				<ul>
 					<li><a href="instructions.php">Instruction to Authors</a></li>
 					<li><a href="submitArticle.php">Submit Article</a></li>

@@ -97,7 +97,12 @@ $('#main').ready(function(){
 				Physiotherapy, Hotel Management,
 				education etc. with more than 15000 students & 1000 teachers.
 				courses Social Work, Teacher.<br/>
-				<b><a href="http://www.parul.ac.in" target="_blank">Click to view details of the Institute</a></b>
+				<br/>
+				<b>
+				<a href="data/Pharmacogyn-CC-2.jpg" target="_blank">
+				Click to Download our brochure.<br/><br/>
+				<img src="data/Pharmacogyn-CC-2.jpg" align="middle"  height="30%" width="30%"/>
+				</a></b>
 			</p>
 
 		</div><!-- /#left -->

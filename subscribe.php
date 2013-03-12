@@ -50,93 +50,14 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 	<div class="container_16" id="content">
 		
 		<div class="grid_11 content" id="two_col">
-		<h2>Subscribe to our Articles</h2>
-		
-		<button style=""><h3><b>Click here to subscribe online</b></h3></button>
-		<br/><br/><br/><br/>
-			<h3>Subscription rates for the year 2013*</h3>
-			<table cellpadding="2px" width="105%" align="center" border="1px">
-			<tr>
-				<th rowspan=3><br /></th>
-				<th colspan=4>India (INR)</th>
-				<th colspan=4>Overseas (USD $)</th></tr>
-			<tr>
-				<th colspan=2>Individual</th>
-				<th colspan=2>Institute</th>
-				<th colspan=2>Individual</th>
-				<th colspan=2>Institute</th>
-			</tr>
-			<tr>
-				<th>Base Amount</th>
-				<th>Taxes</th>
-				<th>Base Amount</th>
-				<th>Taxes</th>
-				<th>Base Amount</th>
-				<th>Taxes</th>
-				<th>Base Amount</th>
-				<th>Taxes</th>
-			</tr>
-			<tr>
-				<th>Print</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-				<th>Online</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-				<th>Print+Online</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			</tr>
-			<tr>
-				<th>Single Issue</th>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-				<td></td>
-			</tr>
-			</table>
-			<br/>
-			<ul>
-				<li>Published Quarterly.</li>
-				<li>Subscriptions are for calendar year only.</li>
-				<li>Please return this coupon to:
-				
-				</li>
-				
-				<li>Cheque should favour "                                                    ."</li>
-				<li>Please allow at least six to eight weeks for commencement of new subscription.</li>
-				<li>Claims for missing issues can be made only within one month of publication</li>
-			</ul>
+		<h2>Subscribe</h2>
 			<p>
-				* Prices not including taxes. Additional taxes applicable.
-				** Click to Print / Download form
-			</p>
+			<b>Download PDF for subscription rates</b>
+			<br/>
+			<a href="data/Subscriptions.pdf" target="_blank">
+				<img src="images/pages/download_button.png" align="middle" height="20%" width="20%"/>
+			</a>
+			</p>	
 		</div><!-- /#two_col -->
 
 		<div class="grid_5" id="one_col">

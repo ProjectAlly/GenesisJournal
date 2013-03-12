@@ -55,7 +55,7 @@ $('#main').ready(function(){
 		<h2>Contact Information</h2>
 		<h3>Editorial Office</h3>
 		<p>
-		<b>A Genesis Journals</b><br/>
+		<b>Genesis Journal</b><br/>
 		Parul Arogya Seva Mandal,<br/>
 		P.O. Limda, Tal. Waghodia,<br/>
         Vadodara-391760<br/>

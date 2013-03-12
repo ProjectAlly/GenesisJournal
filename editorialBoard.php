@@ -36,7 +36,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 		<!-- SUBMENU -->
 		<div class="grid_16" id="display">
 			<ul id="subNavigation">
-				<li>OUR EDITORS</li>
+				<li><a>OUR EDITORS</a></li>
 			</ul>
 		</div>
 		<!-- /SUBMENU -->

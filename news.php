@@ -44,7 +44,7 @@ $('#main').ready(function(){
 		<!-- SUBMENU -->
 		<div class="grid_16" id="display">
 			<ul id="subNavigation">
-				<li>STAY UPDATED</li>
+				<li><a>STAY UPDATED</a></li>
 			</ul>
 		</div>
 		<!-- /SUBMENU -->

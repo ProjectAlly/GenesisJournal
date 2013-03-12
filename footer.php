@@ -5,15 +5,15 @@
 	
 		<div>
 			<ul class="services">
-				<li>Subcribe to our articles</li>
-				<li>Submit your articles</li>
-				<li>Join as a reviewer</li>
+				<li><a href="subscribe.php">Subcribe to our articles</a></li>
+				<li><a href="submitArticle.php">Submit your articles</a></li>
+				<li><a href="joinAsReviewer.php">Join as a reviewer</a></li>
 			</ul>
 
 			<ul class="links" id="first">
-				<li><a href="index.php">Home</a></li>
-				<li><a href="aboutUs.php">About</a></li>
-				<li><a href="contactUs.php">Contact Us</a></li>
+				<li><a href="index.php">HOME</a></li>
+				<li><a href="aboutUs.php">ABOUT US</a></li>
+				<li><a href="contactUs.php">CONTACT US</a></li>
 			</ul>
 
 

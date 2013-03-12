@@ -1111,7 +1111,7 @@ triBackHome li {
 #footer ul.services li {
 	display:block;
 	height:25px;
-	color:#27415a;
+	color:#FFFFFF;
 	background:url(../images/ball_orange.gif) left top no-repeat;
 	background-position-y: 6px;
 	padding-left:20px;
@@ -1119,13 +1119,12 @@ triBackHome li {
 
 #footer ul#first {
 	display:block;
-	border-left:5px solid #3a6085;
+	border-left:5px solid #FFFFFF;
 }
 
 #footer a {
-	color:#3a6085;
+	color:#DADADA;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 
 #footer a:hover {

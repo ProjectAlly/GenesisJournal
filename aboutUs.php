@@ -44,7 +44,7 @@ $('#main').ready(function(){
 		<!-- SUBMENU -->
 		<div class="grid_16" id="display">
 			<ul id="subNavigation">
-				<li><a href="contact.html" class="current">Know us better</a></li>
+				<li><a href="aboutUs.php" class="current">Know us better</a></li>
 			</ul>
 		</div>
 		<!-- /SUBMENU -->
@@ -101,7 +101,6 @@ $('#main').ready(function(){
 				<b>
 				<a href="data/Pharmacogyn-CC-2.jpg" target="_blank">
 				Click to Download our brochure.<br/><br/>
-				<img src="data/Pharmacogyn-CC-2.jpg" align="middle"  height="30%" width="30%"/>
 				</a></b>
 			</p>
 

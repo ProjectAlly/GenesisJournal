@@ -44,7 +44,7 @@ $('#main').ready(function(){
 		<!-- SUBMENU -->
 		<div class="grid_16" id="display">
 			<ul id="subNavigation">
-				<li><a href="contact.html" class="current">JOIN OUR BOARD - BE A PART OF PHARMAGENE</a></li>
+				<li><a class="current">Copyright Transfer</a></li>
 			</ul>
 		</div>
 		<!-- /SUBMENU -->

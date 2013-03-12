@@ -355,7 +355,7 @@ div#search img {
 	text-align: center;
 	padding-right:10px;
 	font-family: Tahoma, sans-serif;
-	color:#113a63;
+	color:#3C3C3C;
 	font-size:12px;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -426,11 +426,11 @@ ul#subNavigation li a {
 }
 
 ul#subNavigation li a.current {
-	color:#113a63;
+	color:#FFFFFF;
 }
 
 ul#subNavigation li a:hover {
-	color:#113a63;
+	color:#FFFFFF;
 }
 
 /* end sub navigation styling */
@@ -721,7 +721,7 @@ a#moreNews {
 #beforeSlideshow h1 {
 	font-family: Century Gothic, sans-serif;
 	font-size:36px;
-	color:#434c55;
+	color:#FFFFFF;
 	font-weight:normal;
 	margin:60px 0px 0px 20px;
 	float:left;
@@ -731,7 +731,7 @@ a#moreNews {
 	float:left;
 	font-family:Century Gothic, sans-serif;
 	font-size:19px;
-	color:#434c55;
+	color:#FFFFFF;
 	font-weight:normal;
 }
 
@@ -739,7 +739,7 @@ a#moreNews {
 	width:180px;
 	float:right;
 	font-size:12px;
-	color:#5e758c;
+	color:#FFFFFF;
 	height:40px;
 	line-height:40px;
 	vertical-align:middle;
@@ -1111,7 +1111,7 @@ triBackHome li {
 #footer ul.services li {
 	display:block;
 	height:25px;
-	color:#27415a;
+	color:#FFFFFF;
 	background:url(../images/ball_orange.gif) left top no-repeat;
 	background-position-y: 6px;
 	padding-left:20px;
@@ -1119,13 +1119,12 @@ triBackHome li {
 
 #footer ul#first {
 	display:block;
-	border-left:5px solid #3a6085;
+	border-left:5px solid #FFFFFF;
 }
 
 #footer a {
-	color:#3a6085;
+	color:#DADADA;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 
 #footer a:hover {

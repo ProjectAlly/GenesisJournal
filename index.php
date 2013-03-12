@@ -44,7 +44,7 @@ body {
 	<div class="container_16" id="content">
 		
 		<div class="grid_11 content" id="two_col">
-			<h2>Welcome to Pharmagene</h2>
+			<h2>Welcome to Genesis Journal</h2>
 			<p>
 			<b>Pharmagene</b> is an open access online journal, 
 			which publishes research articles, reviews and letters in all areas of Pharmaceutical Sciences.<br/>

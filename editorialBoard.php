@@ -36,10 +36,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 		<!-- SUBMENU -->
 		<div class="grid_16" id="display">
 			<ul id="subNavigation">
-				<li><a href="about.html" class="current">slideshow</a></li>
-				<li><a href="quickselectmenu.html">quick select menu</a></li>
-				<li><a href="port.html">portfolio</a></li>
-				<li><a href="sidebars.html">sidebars</a></li>
+				<li>OUR EDITORS</li>
 			</ul>
 		</div>
 		<!-- /SUBMENU -->
@@ -51,20 +48,15 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 		
 		<div class="grid_11 content" id="two_col">
 		<h2>Editorial Board</h2>
-		<table>
+		<table width="100%">
+			<col width="100"/>
+			<col width="100"/>
 			<tr>
                 <td><h4>Chairman</h4></td>
-            </tr>
-			<tr>
-                <td>Dr. Devanshu J. Patel</td>
-            </tr>
-			<tr>
-                <td>&nbsp;</td>
-            </tr>
-			<tr>
                 <td><h4>Managing Editor</h4></td>
             </tr>
 			<tr>
+                <td>Dr. Devanshu J. Patel</td>
                 <td>Dr. Rajesh K.S.</td>
             </tr>
 			<tr>
@@ -72,23 +64,14 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
             </tr>
 			<tr>
                 <td><h4>Chief Editors</h4></td>
-            </tr>
-			<tr>
-                <td>Dr. Prafulla Sabale</td>
-            </tr>
-			<tr>
-                <td>Dr. B. K. Sridhar</td>
-            </tr>
-			<tr>
-                <td>&nbsp;</td>
-            </tr>
-			<tr>
                 <td><h4>Associate Editors</h4></td>
             </tr>
 			<tr>
+                <td>Dr. Prafulla Sabale</td>
                 <td>Mr. Parag Patel</td>
             </tr>
 			<tr>
+                <td>Dr. B. K. Sridhar</td>
                 <td>Mr. Rikin Patel</td>
             </tr>
 			<tr>
@@ -96,32 +79,78 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
             </tr>
 			<tr>
                 <td><h4>Advisory Editorial Board Members</h4></td>
+                <td><h4>Editorial Board Members</h4></td>
             </tr>
 			<tr>
                 <td>Prof. Dr. N. Udupa</td>
+                <td>Prof. Dr. J. K. Patel</td>
             </tr>
 			<tr>
                 <td>Prof. Dr. Betgeri G. V.	</td>
+                <td>Prof. Dr. T. Y. Pasha</td>
             </tr>
 			<tr>
                 <td>Dr. N. Ganesh</td>
+                <td>Prof. Dr. Vijayendra Swami</td>
             </tr>
 			<tr>
                 <td>Dr. Andreas Bernkop Schnurch</td>
+                <td>Prof. Dr. D. B. Meshram</td>
             </tr>
 			<tr>
                 <td>Prof. Larry Goodyer</td>
+                <td></td>
+            </tr>
+			<tr>
+                <td>&nbsp;</td>
             </tr>
             <tr>
-                <td><h4>Editorial Board Members</h4></td>
-            </tr>
-            <tr>
-                <td>Prof. Dr. J. K. Patel</td>
-            </tr>
-            <tr>
-                <td>Prof. Dr. T. Y. Pasha</td>
-            </tr>
+                <td><h4>Reviewers</h4></td>
+            	<table width="700px;">
+            		<tr>
+            			<td>Ms. Bhumika Patel</td>
+            			<td>Dr. Deepa Patel</td>
+            			<td>Dr. Dipti Patel</td>
+            		</tr>
+            		<tr>
+            			<td>Dr. Javed Akhtar </td>
+            			<td>Ms. Jignasha Derasari</td>
+            			<td>Mrs. Jignasha Modi</td>
+            		</tr>
+            		<tr>
+            			<td>Mr. Kunal Shah</td>
+            			<td>Mrs. Madhuri Baghel</td>
+            			<td>Dr. Nazneen Surti</td>	
+            		</tr>		 		
+            		<tr>
+            			<td>Mrs. Pinkal Patel </td>
+            			<td>Mrs. Priyanka Patil </td>
+            			<td>Mr. Ritesh Rangani</td>	
+            		</tr>		 		
+            		<tr>
+            			<td>Mr. Rupal Jani </td>
+            			<td>Mr. Rushik Ghodasara </td>
+            			<td>DMrs. Sngdha Das Mandal</td>	
+            		</tr>		 		
+            		<tr>
+            			<td>Mr. Stavan Master</td>
+            			<td>Mrs. Vidya Sabale </td>
+            			<td>Mr. Virag Gofane</td>	
+            		</tr>		 		
+            		<tr>
+            			<td>Mr. Viral Desai</td>
+            			<td></td>
+            			<td></td>	
+            		</tr>		 		
+            	</table>
+            	</tr>
 		</table>
+		<p>
+		<b>Published By:</b><br/> A Genesis Journal,<br/> Parul Arogya Seva Mendal,
+		P.O.: Limda, Tal: Waghodia,<br/> Dist: Vadodara-391760 Gujarat, India.<br/>
+		<b>E Mail:</b><a herf="mailto:pharmagenejournal@gmail.com" target="_blank">pharmagenejournal@gmail.com</a><br/>
+		<b>Web:</b><a href="http://www.genesisjournal.org" target="_blank">www.genesisjournals.org</a>
+		</p>
 		</div><!-- /#two_col -->
 
 		<div class="grid_5" id="one_col">

@@ -44,7 +44,7 @@ $('#main').ready(function(){
 		<!-- SUBMENU -->
 		<div class="grid_16" id="display">
 			<ul id="subNavigation">
-				<li><a href="contact.html" class="current">Know us better</a></li>
+				<li>STAY UPDATED</li>
 			</ul>
 		</div>
 		<!-- /SUBMENU -->
@@ -77,6 +77,13 @@ $('#main').ready(function(){
 			manufacturing etc., it is our effort to imbibe the aptitude of using QbD 
 			in the existing & budding pharmacy-professionals, including Post-Graduate 
 			students, Research Scholars, Academicians and Industrial persons. 
+			</p>
+			<p>
+				<b>Download brochure of QbD Seminar</b>
+				<br/>
+				<a href="data/QbD Pharmacy Brochure.pdf" target="_blank">
+					<img src="images/pages/download_button.png" align="middle" height="20%" width="20%"/>
+				</a>
 			</p>
 		</div><!-- /#left -->
 		<div class="grid_5" id="one_col">

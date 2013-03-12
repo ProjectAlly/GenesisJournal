@@ -57,7 +57,7 @@ $('#main').ready(function(){
 		<div class="grid_11 content contact" id="two_col">
 			<h2>Copyright Transfer Form</h2>
 			<p><b>The form for copyright transfer is availaible for download.</b><br/>
-				<a href="data/copyright transfer form.pdf" target="_blank">
+				<a href="data/CopyrightTransferForm.pdf" target="_blank">
 					<img src="images/pages/download_button.png" align="middle" height="20%" width="20%"/>
 				</a>
 			</p>

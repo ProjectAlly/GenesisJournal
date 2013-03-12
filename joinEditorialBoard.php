@@ -54,7 +54,7 @@ $('#main').ready(function(){
 			
 	<div class="container_16" id="content">
 		
-		<div class="grid_11 content contact" id="two_col">
+		<div class="grid_11 content" id="two_col">
 			<h2>Join Editorial Board</h2>
 			<p>
 			Pharmagene is an open access online journal, which publishes research articles, 

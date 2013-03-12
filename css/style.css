@@ -4,7 +4,7 @@ body {
 	font-family: Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-size:13px;
 	color:#4f555d;
-	line-height:23px;
+	line-height:20px;
 }
 
 #main {
@@ -31,7 +31,9 @@ h3{
 	color:#0f5396;
 	margin:25px 20px 23px;
 }
-
+h4{
+	margin:5px 5px 5px;	
+}
 ul {
 	margin-left:20px;
 	list-style-position: inside;
@@ -45,9 +47,19 @@ ul li {
 
 p {
 	margin:20px;
-	font-size:12px;
+	font-size:13px;
 }
-
+blockquote{
+	margin-left: 20px;
+	font-size:12px;
+	border-left: medium;
+	border-left-color: #0f5396;
+	border-left-style: ridge;
+	color: #0f5396;
+}
+blockquote p{
+	margin-top: 5px;	
+}
 a {
 	font-size:100%;
 	color:#0181fe;
@@ -567,8 +579,18 @@ div#testimonials div.by {
 
 
 /* front page news items styling */
+.sidebar{
+	font-size: 13px;
+}
+sidebar ul li a{
+	text-decoration:none;
+	color: inherit;
+}
+sidebar ul li a:hover{
+	color: inherit;
+}
 .sidebar ul {
-	padding-top: 5px;
+	padding-top: 15px;
 	list-style-type: none;
 	margin:0px;
 }
@@ -576,7 +598,7 @@ div#testimonials div.by {
 .sidebar ul li {
 	display:block;
 	height:50px;
-	margin:10px 20px;
+	margin:5px 5px;
 }
 
 .news ul {

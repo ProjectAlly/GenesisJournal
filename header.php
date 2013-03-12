@@ -1,5 +1,7 @@
 <div class="grid_16" id="top">
-<?php include ('menu/quickmenu.php') ?>
+    <!-- while implementing search remove the below mentioned comment-->
+    <!--<p id="qsm">for search</p>-->
+
 </div>
 <div class="clear"></div>
 

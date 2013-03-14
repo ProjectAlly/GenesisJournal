@@ -7,8 +7,7 @@
 	<div class="clear"></div>
 	
 </div><!-- /#main -->
-<style>
-</style>		
+<?php include('/../../../../../css/abstract.css'); ?>
 <div class="container_16" id="content">
 	
 	<div class="grid_11 content" id="two_col">
@@ -38,5 +37,10 @@
             0.245-0.612. Statistical analysis proves the method is repeatable and specific for analysis of
             moclobemide.
 		</p>
+        <table>
+            <tr>
+                <td><strong><a href="data/Articles/Pharmagene/Volume 1/7.pdf"" target="_blank">[Full Text PDF]</a></strong></td>
+            </tr>
+        </table>
 
 	</div><!-- /left -->

@@ -7,8 +7,7 @@
 	<div class="clear"></div>
 	
 </div><!-- /#main -->
-<style>
-</style>		
+<?php include('/../../../../../css/abstract.css'); ?>
 <div class="container_16" id="content">
 	
 	<div class="grid_11 content" id="two_col">
@@ -38,5 +37,10 @@
 		<b>KEYWORDS:</b> Microwave assisted synthesis, one pot synthesis, 2, 3-di-substituted quinazolin-4-(3H)-ones, antimicrobial activity.
 		
 		</p>
+        <table>
+            <tr>
+                <td><strong><a href="data/Articles/Pharmagene/Volume 1/8.pdf"" target="_blank">[Full Text PDF]</a></strong></td>
+            </tr>
+        </table>
 		
 	</div><!-- /left -->

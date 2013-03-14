@@ -28,6 +28,7 @@ body {
 		
 		<?php include ($abs_file); ?>
 		
+		<!-- #right -->
 		<div class="grid_5" id="one_col">
 			<?php include ('sidebar.php'); ?>
 

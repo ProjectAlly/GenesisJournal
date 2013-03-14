@@ -1,1 +1,1 @@
-<title>Genesis Journal</title>
+<title>Genesis Journals</title>

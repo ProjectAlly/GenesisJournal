@@ -55,12 +55,13 @@ $('#main').ready(function(){
 		<h2>Contact Information</h2>
 		<h3>Editorial Office</h3>
 		<p>
-		<b>Genesis Journal</b><br/>
+		<b>Genesis Journals</b><br/>
 		Parul Arogya Seva Mandal,<br/>
 		P.O. Limda, Tal. Waghodia,<br/>
         Vadodara-391760<br/>
 		Tel. No. 02668-262327<br/>
 		E Mail: <a href="mailto:editorpharmagene@gmail.com">editorpharmagene@gmail.com</a><br/>
+        E Mail: <a href="mailto:pharmagenejournal@gmail.com">pharmagenejournal@gmail.com</a><br/>
 		</p>
 		
 		<!--<h2>Contact form</h2>

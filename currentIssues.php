@@ -24,8 +24,8 @@ table {
 }
 tr{border-bottom: 2px; border-bottom-style: inset;}
 #contenthead{background-color:grey;   width:300px; height: 100px; color: black; text-align: center;  margin-left:170px;}
-a {text-decoration: none; color:black;}
-a:hover{ text-decoration: underline; }
+table a {text-decoration: none; color:black;}
+table a:hover{ text-decoration: underline; }
 </style>
 <script type="text/javascript">
 
@@ -120,7 +120,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>S.K. Patel College of Pharmaceutical Education and Research, Kherva-Mehsana, India
-                        <br/><sup>3</sup>C. U. Shah College of Pharmacy & Research, Wadhwan-363030
+                        <br/><sup>3</sup>C. U. Shah College of Pharmacy and Research, Wadhwan-363030
                     </td>
                 </tr>
                 <tr>

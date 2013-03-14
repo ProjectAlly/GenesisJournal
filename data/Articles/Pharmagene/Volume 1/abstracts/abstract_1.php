@@ -7,8 +7,7 @@
 	<div class="clear"></div>
 	
 </div><!-- /#main -->
-<style>
-</style>		
+<?php include('/../../../../../css/abstract.css'); ?>
 <div class="container_16" id="content">
 	
 	<div class="grid_11 content" id="two_col">
@@ -42,5 +41,10 @@
 		<b>KEYWORDS:</b> 1,3,4-Oxadiazole, Quaternary Compound, Morpholine, Pyrrolidine.
 		
 		</p>
+        <table>
+            <tr>
+                <td><strong><a href="data/Articles/Pharmagene/Volume 1/1.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+            </tr>
+        </table>
 		
 	</div><!-- /left -->

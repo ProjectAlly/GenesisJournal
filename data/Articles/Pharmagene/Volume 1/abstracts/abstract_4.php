@@ -7,15 +7,14 @@
 	<div class="clear"></div>
 	
 </div><!-- /#main -->
-<style>
-</style>		
+<?php include('/../../../../../css/abstract.css'); ?>
 <div class="container_16" id="content">
 	
 	<div class="grid_11 content" id="two_col">
 		<br/>
 	    <p align="center">
                         <strong>
-                            <i>Synthesis, Characterization and Biological Evaluation of Substituted Novel Pyrazolone and Pyrazole Derivatives.</i>
+                            <i>RP-HPLC Method Development and Validation for Estimation of Drospirenone and Ethinyl Estradiol in Bulk and Combined Dosage Form.</i>
                             <br/><br/>R. C. Patel<sup>*1</sup>, D. K. Rathod<sup>1</sup>, Rajesh KS<sup>1</sup>, V.S.Patel<sup>2</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -40,5 +39,10 @@
 		<b>KEYWORDS:</b> : Drospirenone, Ethinylestradiol, RP-HPLC.
 		
 		</p>
+        <table>
+            <tr>
+                <td><strong><a href="data/Articles/Pharmagene/Volume 1/4.pdf"" target="_blank">[Full Text PDF]</a></strong></td>
+            </tr>
+        </table>
 		
 	</div><!-- /left -->

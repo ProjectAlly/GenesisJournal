@@ -7,7 +7,7 @@
 	<div class="clear"></div>
 	
 </div><!-- /#main -->
-<?php include('/../../../../../css/abstract.css'); ?>
+<?php include('css/abstract.css'); ?>
 <div class="container_16" id="content">
 	
 	<div class="grid_11 content" id="two_col">

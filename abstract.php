@@ -7,53 +7,39 @@
 <link rel="stylesheet" href="css/reset.css" type="text/css" />
 <link rel="stylesheet" href="css/style.css" type="text/css" />
 <style type="text/css">
+
 body {
 	background: #f9fafb url(images/pages/bg.gif) top repeat-x;
 }
-table {
-	border: 1px;
+
+.aboutus {
+	padding-left: 166px;
 }
 </style>
 </head>
 
 <body>
+<?php 
+	$abs_file = "Abstract/Volume1/".$_GET['article'].".php";
+?>
+
 	<div class="container_16" id="main">
+		<?php include ('header.php')?>
 		
-		<?php include('header.php')?>
-		<!-- SUBMENU -->
-		<div class="grid_16" id="display">
-			<ul id="subNavigation">
-				<li><a class="current">Subscribe</a></li>
-			</ul>
-		</div>
-		<!-- /SUBMENU -->
-		<div class="clear"></div>
+		<?php include ($abs_file); ?>
 		
-	</div><!-- /#main -->
-			
-	<div class="container_16" id="content">
-		
-		<div class="grid_11 content" id="two_col">
-		<h2>Subscribe</h2>
-			<p>
-			<b>Download PDF for subscription rates</b>
-			<br/>
-			<a href="data/Subscriptions.pdf" target="_blank">
-				<img src="images/pages/download_button.png" align="middle" height="20%" width="20%"/>
-			</a>
-			</p>	
-		</div><!-- /#two_col -->
-
 		<div class="grid_5" id="one_col">
-			<?php include('sidebar.php'); ?>		
-		</div><!-- /#one_col -->
+			<?php include ('sidebar.php'); ?>
 
+		</div><!-- /#right -->
 		<div class="clear"></div>
 		
 	</div><!-- /#content -->
-		
+			
 	<div id="footerwrapper">
+
 		<?php include('footer.php'); ?>
+
 	</div><!-- /#footerwrapper -->
 
 <script type="text/javascript"> Cufon.now(); </script>

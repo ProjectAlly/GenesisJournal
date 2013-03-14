@@ -6,14 +6,7 @@
 <link rel="stylesheet" href="css/960.css" type="text/css" />
 <link rel="stylesheet" href="css/reset.css" type="text/css" />
 <link rel="stylesheet" href="css/style.css" type="text/css" />
-<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="js/jquery-ui-1.7.2.custom.min.js"></script>
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/jquery.cycle.min.all.js"></script>
-<script type="text/javascript" src="js/TitilliumText15L_100-TitilliumText15L_400.font.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
 <style type="text/css">
-
 body {
 	background: #f9fafb url(images/pages/bg.gif) top repeat-x;
 }
@@ -21,12 +14,6 @@ table {
 	border: 1px;
 }
 </style>
-<script type="text/javascript">
-
-Cufon.replace('http://chillyblues.chillyorange.com/h1');
-Cufon.replace('http://chillyblues.chillyorange.com/h2');
-</script>
-
 </head>
 
 <body>
@@ -69,15 +56,5 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 	</div><!-- /#footerwrapper -->
 
 <script type="text/javascript"> Cufon.now(); </script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10567708-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
 </body>
 </html>

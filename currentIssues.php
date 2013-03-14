@@ -19,7 +19,13 @@ body {
 }
 table {
 	border: 1px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
+tr{border-bottom: 2px; border-bottom-style: inset;}
+#contenthead{background-color:grey;   width:300px; height: 100px; color: black; text-align: center;  margin-left:170px;}
+table a {text-decoration: none; color:black;}
+table a:hover{ text-decoration: underline; }
 </style>
 <script type="text/javascript">
 
@@ -51,17 +57,25 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 	<div class="container_16" id="content">
 		
 		<div class="grid_11 content" id="two_col">
-			<br/><br/>
-            <!--
-			<h2>Under Construction</h2>
-				<h3>We're currently working on the content...</h3>-->
-            <h2>Genesis Journal - Pharamegene</h2>
+			<h2>Genesis Journals - Pharamegene</h2>
+					<div id="logo">
+						<img src="images/logo.png" style="margin-left: 20px;" alt="Genesis Journal"/>
+						<div id="contenthead">
+							<br/>
+							<b>PHARMAGENE</b><br/>
+					    	<b>Vol:1 Issue:1</b><br/>
+					    	www.genesisjournals.org
+					    </div>
+				    </div>
+				    <img style="float:right; margin-right:30px; margin-top: -115px;" src="images/coverpage.jpg" alt="Pharamgene" />
+				<div class="clear"></div>
+			<br/>
             <table>
                 <!-- Article 1 starts -->
                 <tr>
                     <td colspan="3">
                         <strong>
-                            Synthesis, Characterization and Evaluation of Quaternary Compounds of 4-(N-Substituted)-3-Pyridyl-5-Mercapto-S-Triazole with Secondary Amines
+                            <i>Synthesis, Characterization and Evaluation of Quaternary Compounds of 4-(N-Substituted)-3-Pyridyl-5-Mercapto-S-Triazole with Secondary Amines.</i>
                             <br/>Anil Manikrao<sup>*1</sup>, Prafulla M Sabale<sup>2</sup>, Prashant Prajapati<sup>2</sup>
                         </strong>
                         <br/><sup>1</sup>Food and drug administration, 1st floor Dr. B. R. Ambedkar Market, Jalgaon-425 001
@@ -74,7 +88,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     </td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/1.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 1 ends -->
 
@@ -82,7 +96,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Development and Validation of Derivative Spectroscopic Method For Estimation of Acebrophylline In Bulk And Its Dosage Form & In Presence of Impurity, Ambroxol HCl
+                            <i>Development and Validation of Derivative Spectroscopic Method For Estimation of Acebrophylline In Bulk And Its Dosage Form and In Presence of Impurity, Ambroxol HCl.</i>
                             <br/>Bhagavati Solanki<sup>1</sup>, Harshal Trivedi<sup>2</sup>, Ankita Khodiyar<sup>1</sup>, Falguni Tandel<sup>1</sup>, Lalit Lata Jha<sup>1</sup>, Rajesh KS<sup>1</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -93,7 +107,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/2.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 2 ends -->
 
@@ -101,18 +115,18 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Invitro Anticancer Activity of Rubia Cordifolia Against Hep G 32 Cell Line
+                            <i>Invitro Anticancer Activity of Rubia Cordifolia Against Hep G 32 Cell Line.</i>
                             <br/>Parag R. Patel<sup>1</sup>, Nikita N. Patel<sup>1</sup>, Maulik P. Suthar<sup>2</sup>, Rajesh KS<sup>1</sup>, L. D. Patel<sup>3</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>S.K. Patel College of Pharmaceutical Education and Research, Kherva-Mehsana, India
-                        <br/><sup>3</sup>C. U. Shah College of Pharmacy & Research, Wadhwan-363030
+                        <br/><sup>3</sup>C. U. Shah College of Pharmacy and Research, Wadhwan-363030
                     </td>
                 </tr>
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/3.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 3 ends -->
 
@@ -120,7 +134,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            RP-HPLC Method Development and Validation for Estimation of Drospirenone and Ethinyl Estradiol in Bulk and Combined Dosage Form
+                            <i>RP-HPLC Method Development and Validation for Estimation of Drospirenone and Ethinyl Estradiol in Bulk and Combined Dosage Form.</i>
                             <br/>R. C. Patel<sup>*1</sup>, D. K. Rathod<sup>1</sup>, Rajesh KS<sup>1</sup>, V.S.Patel<sup>2</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -130,7 +144,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/4.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 4 ends -->
 
@@ -138,7 +152,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Synthesis, Characterization and Biological Evaluation of Substituted Novel Pyrazolone and Pyrazole Derivatives
+                            <i>Synthesis, Characterization and Biological Evaluation of Substituted Novel Pyrazolone and Pyrazole Derivatives.</i>
                             <br/>Prafulla M Sabale<sup>*</sup>, Ronak S Patel, Chirag R Prajapati
                         </strong>
                         <br/>Department of Pharma Chemistry, Parul Institute of Pharmacy, Limda-391 760,Vadodara, Gujarat.
@@ -147,7 +161,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/5.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 5 ends -->
 
@@ -155,7 +169,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Development and Validation of Zero and First Order Derivative Spectrophotometric Methods For Determination of Oxcarbazepine In Pharmaceutical Dosage Forms
+                            <i>Development and Validation of Zero and First Order Derivative Spectrophotometric Methods For Determination of Oxcarbazepine In Pharmaceutical Dosage Forms.</i>
                             <br/>Nikita N. Patel<sup>1*</sup>, Rajesh KS<sup>1</sup>, Parag R. Patel<sup>1</sup>,  Jyotesh R. Jain<sup>2</sup>, Shailesh A.Shah<sup>2</sup>, Charmy S.Kothari<sup>3</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -166,7 +180,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/6.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 6 ends -->
 
@@ -174,7 +188,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Spectrophotometric Estimation of Moclobemide Using Folin Ciocalteu’s Reagent
+                            <i>Spectrophotometric Estimation of Moclobemide Using Folin Ciocalteu’s Reagent.</i>
                             <br/>Shital V. Patel <sup>*1</sup>, M. B. Patel<sup>2</sup>, Rajesh KS<sup>1</sup>, T. Y. Pasha<sup>3</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -185,7 +199,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/7.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 7 ends -->
 
@@ -193,7 +207,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Solvent Free One Pot Microwave Synthesis of Quinazolin 4-(3H)-One Derivatives with their Antibacterial and Antifungal Activity.
+                            <i>Solvent Free One Pot Microwave Synthesis of Quinazolin 4-(3H)-One Derivatives with their Antibacterial and Antifungal Activity.</i>
                             <br/>Akhil A. Nagar<sup>1*</sup>, Ashish Patel<sup>1</sup>, Rajesh KS<sup>1</sup>, Kishore R. Danao<sup>2</sup>, L.G. Rathi<sup>3</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -204,7 +218,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/8.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 8 ends -->
 
@@ -212,7 +226,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            A Novel Stability Indicating Liquid Chromatographic Method for the Estimation of Rimonabant Hydrochloride in Tablet Dosage Form.
+                            <i>A Novel Stability Indicating Liquid Chromatographic Method for the Estimation of Rimonabant Hydrochloride in Tablet Dosage Form.</i>
                             <br/>Dhara Rathod<sup>*1</sup>, Rikin Patel<sup>1</sup>, Bharat Chaudhari<sup>2</sup>, Rajesh KS<sup>1</sup>, Vipul Patel<sup>3</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -223,7 +237,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/9.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 9 ends -->
 
@@ -231,7 +245,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Preparation and Evaluation of Effervescent Bioadhesive Vaginal Tablet of Itraconazole for Vaginal Candidiasis
+                            <i>Preparation and Evaluation of Effervescent Bioadhesive Vaginal Tablet of Itraconazole for Vaginal Candidiasis.</i>
                             <br/>Palak Patel<sup>*1</sup>,Vipul Barot<sup>*1</sup>, Bijal Prajapati<sup>*1</sup>, Rajesh KS<sup>*1</sup>, Lalit Lata Jha<sup>*1</sup>
                         </strong>
                         <br/><sup>*1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -240,7 +254,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/10.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 10 ends -->
 
@@ -248,8 +262,8 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Clinical manifestation of Obesity
-                            <br/>Javid Mansuri<sup>1*</sup>,Anand Pithadia<sup>1</sup>, Archana Navale1<sup>1</sup>, Rajesh KS<sup>1</sup>, Archana Paranjape<sup>2</sup>
+                            <i>Clinical manifestation of Obesity.</i>
+                            <br/>Javid Mansuri<sup>1*</sup>,Anand Pithadia<sup>11</sup>, Archana Navale1<sup>1</sup>, Rajesh KS<sup>1</sup>, Archana Paranjape<sup>2</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>Director, Edutech learning solution Pvt. Ltd. ,Vadodara
@@ -258,7 +272,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/11.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 11 ends -->
 
@@ -266,7 +280,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td colspan="3">
                         <strong><br/><br/>
-                            Asthma Therapy in Ayurveda: An Ancient Scientific Approach
+                            <i>Asthma Therapy in Ayurveda: An Ancient Scientific Approach.</i>
                             <br/>Madhavi Patel<sup>1*</sup>,Viral Desai<sup>2</sup>, Vishal Patel<sup>2</sup>
                         </strong>
                         <br/>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
@@ -275,7 +289,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <tr>
                     <td></td>
                     <td><strong>[Abstract]</strong></td>
-                    <td><strong>[Full Text PDF]</strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/12.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 12 ends -->
             </table>

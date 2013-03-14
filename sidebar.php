@@ -1,6 +1,6 @@
 <style type="text/css">
-a {text-decoration: none}
-a:hover{ text-decoration: overline; }
+.sidebar a {text-decoration: none}
+.sidebar a:hover{ text-decoration: overline; }
 </style>
 <div class="sidebar">
 <ul>

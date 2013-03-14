@@ -14,9 +14,9 @@
 	<div class="grid_11 content" id="two_col">
 		<br/>
 	    <p align="center">
-            <strong><br/><br/>
+            <strong>
                 <i>Clinical manifestation of Obesity.</i>
-                <br/>Javid Mansuri<sup>1*</sup>,Anand Pithadia<sup>11</sup>, Archana Navale1<sup>1</sup>, Rajesh KS<sup>1</sup>, Archana Paranjape<sup>2</sup>
+                <br/><br/>Javid Mansuri<sup>1*</sup>,Anand Pithadia<sup>11</sup>, Archana Navale1<sup>1</sup>, Rajesh KS<sup>1</sup>, Archana Paranjape<sup>2</sup>
             </strong>
             <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
             <br/><sup>2</sup>Director, Edutech learning solution Pvt. Ltd. ,Vadodara

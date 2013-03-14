@@ -14,9 +14,9 @@
 	<div class="grid_11 content" id="two_col">
 		<br/>
 	    <p align="center">
-            <strong><br/><br/>
+            <strong>
                 <i>Asthma Therapy in Ayurveda: An Ancient Scientific Approach.</i>
-                <br/>Madhavi Patel<sup>1*</sup>,Viral Desai<sup>2</sup>, Vishal Patel<sup>2</sup>
+                <br/><br/>Madhavi Patel<sup>1*</sup>,Viral Desai<sup>2</sup>, Vishal Patel<sup>2</sup>
             </strong>
             <br/>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
 		</p>

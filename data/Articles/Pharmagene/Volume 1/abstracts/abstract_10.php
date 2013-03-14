@@ -14,9 +14,9 @@
 	<div class="grid_11 content" id="two_col">
 		<br/>
 	    <p align="center">
-            <strong><br/><br/>
+            <strong>
                 <i>Preparation and Evaluation of Effervescent Bioadhesive Vaginal Tablet of Itraconazole for Vaginal Candidiasis.</i>
-                <br/>Palak Patel<sup>*1</sup>,Vipul Barot<sup>*1</sup>, Bijal Prajapati<sup>*1</sup>, Rajesh KS<sup>*1</sup>, Lalit Lata Jha<sup>*1</sup>
+                <br/><br/>Palak Patel<sup>*1</sup>,Vipul Barot<sup>*1</sup>, Bijal Prajapati<sup>*1</sup>, Rajesh KS<sup>*1</sup>, Lalit Lata Jha<sup>*1</sup>
             </strong>
             <br/><sup>*1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
 		</p>

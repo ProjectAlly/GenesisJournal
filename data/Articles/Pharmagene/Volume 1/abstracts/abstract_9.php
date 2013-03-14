@@ -14,9 +14,9 @@
 	<div class="grid_11 content" id="two_col">
 		<br/>
 	    <p align="center">
-            <strong><br/><br/>
+            <strong>
                 <i>A Novel Stability Indicating Liquid Chromatographic Method for the Estimation of Rimonabant Hydrochloride in Tablet Dosage Form.</i>
-                <br/>Dhara Rathod<sup>*1</sup>, Rikin Patel<sup>1</sup>, Bharat Chaudhari<sup>2</sup>, Rajesh KS<sup>1</sup>, Vipul Patel<sup>3</sup>
+                <br/><br/>Dhara Rathod<sup>*1</sup>, Rikin Patel<sup>1</sup>, Bharat Chaudhari<sup>2</sup>, Rajesh KS<sup>1</sup>, Vipul Patel<sup>3</sup>
             </strong>
             <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
             <br/><sup>2</sup>S.K.Patel College of Pharmaceutical Education and Research,Kherva,Mehsana,Gujarat.

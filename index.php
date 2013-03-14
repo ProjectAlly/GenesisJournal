@@ -60,55 +60,6 @@ body {
 		</div><!-- /#left -->
 		<div class="grid_5" id="one_col">
             <?php include ('sidebar.php'); ?>
-            <!--
-			<h2>News &amp; Events</h2>
-			<ul>
-			<li>
-				<div class="cal">
-					<div class="month">aug</div>
-					<div class="date">26</div>
-				</div>
-				<a href="post.html">First newsitem</a>
-			</li>
-			<li>
-				<div class="cal">
-					<div class="month">aug</div>
-					<div class="date">26</div>
-				</div>
-				<a href="post.html">Second newsitem</a>
-			</li>
-			<li>
-				<div class="cal">
-					<div class="month">aug</div>
-					<div class="date">26</div>
-				</div>
-				<a href="post.html">And a third newsitem</a>
-			</li>
-			</ul>
-			<a href="blog.html" id="moreNews">more news</a>
-			-->
-			<!--<h2>Testimonials</h2>
-			<div id="testimonials">
-				<div>
-					<div>
-					"Praesent vulputate euismod fringilla. Sed nec luctus lacus. Aliquam molestie massa at dolor ultrices dapibus. Donec non lorem nisi, ac lacinia nisl."
-					</div>
-					<div class="by">Someone - <a href="">Some organization</a></div>
-				</div>
-				<div>
-					<div>
-					"Fusce mollis justo id nisi volutpat laoreet. Vivamus sed sem vel ligula bibendum semper euismod et lacus. Suspendisse potenti. Proin magna risus."
-					</div>
-					<div class="by">Someone else - <a href="">Some organization</a></div>
-				</div>
-				<div>
-					<div>
-					"Praesent vulputate euismod fringilla. Sed nec luctus lacus. Aliquam molestie massa at dolor ultrices dapibus. Donec non lorem nisi, ac lacinia nisl."
-					</div>
-					<div class="by">Someone - <a href="">Some organization</a></div>
-				</div>
-			</div>-->
-			
 		</div><!-- /#one_col -->
 		<div class="clear"></div>
 		
@@ -117,15 +68,7 @@ body {
 	<div id="footerwrapper">
 		<?php include('footer.php'); ?>
 	</div><!-- /#footerwrapper -->
-<script type="text/javascript"> Cufon.now(); </script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10567708-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>	
+
+
 </body>
 </html>

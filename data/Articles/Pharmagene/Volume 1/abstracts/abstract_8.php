@@ -14,9 +14,9 @@
 	<div class="grid_11 content" id="two_col">
 		<br/>
 	    <p align="center">
-            <strong><br/><br/>
+            <strong>
                 <i>Solvent Free One Pot Microwave Synthesis of Quinazolin 4-(3H)-One Derivatives with their Antibacterial and Antifungal Activity.</i>
-                <br/>Akhil A. Nagar<sup>1*</sup>, Ashish Patel<sup>1</sup>, Rajesh KS<sup>1</sup>, Kishore R. Danao<sup>2</sup>, L.G. Rathi<sup>3</sup>
+                <br/><br/>Akhil A. Nagar<sup>1*</sup>, Ashish Patel<sup>1</sup>, Rajesh KS<sup>1</sup>, Kishore R. Danao<sup>2</sup>, L.G. Rathi<sup>3</sup>
             </strong>
             <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
             <br/><sup>2</sup>D.B. College of pharmacy, Besa, Nagpur- 440034

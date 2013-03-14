@@ -55,9 +55,9 @@ $('#main').ready(function(){
 	<div class="container_16" id="content">
 		
 		<div class="grid_11 content" id="two_col">
-			<h2>About Genesis Journal</h2>
+			<h2>About Genesis Journals</h2>
 			<p>
-				Genesis Journal is an official publication from "Parul Arogya Seva Mandal", 
+				Genesis Journals is an official publication from "Parul Arogya Seva Mandal",
 				a registered trust (www.parul.ac.in) started to promote
 				educational activities since 1989 under the guidance of visionary
 				person and founder chairman Dr. Jayesh K. Patel.
@@ -75,7 +75,7 @@ $('#main').ready(function(){
 			for the benefit of society as a whole.</p>			
 			</blockquote>
 			<p style="text-align: justify">
-				Genesis journal is a scientific, educational and professional publication of 
+				Genesis journals is a scientific, educational and professional publication of
 				"Parul Arogya Seva Mandal" trust committed to promote the highest professional
 				and ethical standards of research and development activity and to work for 
 				the growth, development and betterment in the field of professional,
@@ -100,7 +100,7 @@ $('#main').ready(function(){
 				<br/>
 				<b>
 				<a href="data/Pharmacogyn-CC-2.jpg" target="_blank">
-				Click to Download our brochure.<br/><br/>
+				Click to Download<br/><br/>
 				</a></b>
 			</p>
 

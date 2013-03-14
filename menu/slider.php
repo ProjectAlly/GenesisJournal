@@ -135,9 +135,9 @@ function getStarted(){
 
 	<div id="beforeSlideshow">
 		<div id="countdown">slideshow starting in &nbsp;&nbsp;<span id="count"><script type="text/javascript">document.write(countdownFrom)</script></span></div>
-		<h1>Welcome to Genesis Journal..!!</h1>
+		<h1>Welcome to Genesis Journals..!!</h1>
 		<div class="clear"></div>
-		<h2>A open online journal for all areas of Pharmaceutical Sciences.</h2>
+		<h2>An open online journal for all areas of Pharmaceutical Sciences.</h2>
 		<div class="clear"></div>
 		<div id="buttons">
 			<a href="aboutus.php" class="button_aa" id="leftButton"><span>Find out more about us</span></a>

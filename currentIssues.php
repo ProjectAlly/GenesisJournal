@@ -52,8 +52,23 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 		
 		<div class="grid_11 content" id="two_col">
 			<br/><br/>
+            <!--
 			<h2>Under Construction</h2>
-				<h3>We're currently working on the content...</h3>
+				<h3>We're currently working on the content...</h3>-->
+            <h2>Genesis Journal - Pharamegene</h2>
+            <table>
+                <tr>
+                    <td>
+                        <strong>
+                            Synthesis, Characterization and Evaluation of Quaternary Compounds of 4-(N-Substituted)-3-Pyridyl-5-Mercapto-S-Triazole with Secondary Amines
+                            <br/>Anil Manikrao<sup>*1</sup>, Prafulla M Sabale<sup>2</sup>, Prashant Prajapati<sup>2</sup>
+                        </strong>
+                        <br/><sup>1</sup>Food and drug administration, 1st floor Dr. B. R. Ambedkar Market, Jalgaon-425 001
+                        <br/><sup>2</sup>Department of Pharma Chemistry, Parul Institute of Pharmacy, Limda-391 760, Vadodara, Gujarat.
+
+                    </td>
+                </tr>
+            </table>
 			<br/><br/><br/><br/>
 
 		</div><!-- /#two_col -->
@@ -71,15 +86,6 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
 	</div><!-- /#footerwrapper -->
 
 <script type="text/javascript"> Cufon.now(); </script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10567708-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
 </body>
 </html>

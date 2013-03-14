@@ -82,23 +82,23 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                 <td><h4>Editorial Board Members</h4></td>
             </tr>
 			<tr>
-                <td>Prof. Dr. N. Udupa</td>
-                <td>Prof. Dr. J. K. Patel</td>
+                <td>Dr. N. Udupa, India</td>
+                <td>Dr. J. K. Patel, India</td>
             </tr>
 			<tr>
-                <td>Prof. Dr. Betgeri G. V.	</td>
-                <td>Prof. Dr. T. Y. Pasha</td>
+                <td>Dr. Betgeri G. V., U.S.A.</td>
+                <td>Dr. T. Y. Pasha, India</td>
             </tr>
 			<tr>
-                <td>Dr. N. Ganesh</td>
-                <td>Prof. Dr. Vijayendra Swami</td>
+                <td>Dr. N. Ganesh, India</td>
+                <td>Dr. Vijayendra Swami, India</td>
             </tr>
 			<tr>
-                <td>Dr. Andreas Bernkop Schnurch</td>
-                <td>Prof. Dr. D. B. Meshram</td>
+                <td>Dr.  Andreas Bernkop Schnurch, Austria</td>
+                <td>Dr. D. B. Meshram, India</td>
             </tr>
 			<tr>
-                <td>Prof. Larry Goodyer</td>
+                <td>Dr. Larry Goodyer, U.K.</td>
                 <td></td>
             </tr>
 			<tr>
@@ -130,12 +130,12 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
             		<tr>
             			<td>Mr. Rupal Jani </td>
             			<td>Mr. Rushik Ghodasara </td>
-            			<td>DMrs. Sngdha Das Mandal</td>	
+            			<td>Mrs. Snigdha Das Mandal</td>
             		</tr>		 		
             		<tr>
             			<td>Mr. Stavan Master</td>
             			<td>Mrs. Vidya Sabale </td>
-            			<td>Mr. Virag Gofane</td>	
+            			<td>Mr. Virag Gophane</td>
             		</tr>		 		
             		<tr>
             			<td>Mr. Viral Desai</td>
@@ -146,7 +146,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
             	</tr>
 		</table>
 		<p>
-		<b>Published By:</b><br/> A Genesis Journal,<br/> Parul Arogya Seva Mendal,
+		<b>Published By:</b><br/> A Genesis Journal,<br/> Parul Arogya Seva Mandal,
 		P.O.: Limda, Tal: Waghodia,<br/> Dist: Vadodara-391760 Gujarat, India.<br/>
 		<b>E Mail:</b><a herf="mailto:pharmagenejournal@gmail.com" target="_blank">pharmagenejournal@gmail.com</a><br/>
 		<b>Web:</b><a href="http://www.genesisjournal.org" target="_blank">www.genesisjournals.org</a>

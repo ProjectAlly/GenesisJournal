@@ -1,7 +1,7 @@
 <div class="container_16">
 
 	<div class="grid_16" id="footer">
-		<span id="address"><b>Genesis Journals</b> - Parul Institute of Pharmacy, Limda, Waghodia-391760, Vadodara E-Mail : editorpharmagene@gmail.com</span>
+		<span id="address"><b>Genesis Journals</b> - Parul Arogya Seva Mandal, P.O. Limda, Tal. Waghodia, Vadodara-391760 E-Mail : editorpharmagene@gmail.com</span>
 	
 		<div>
 			<ul class="services">
@@ -19,7 +19,7 @@
 
 			<div id="copyright">
                 <img src="http://www.e-zeeinternet.com/count.php?page=934955&style=default&nbdigits=9" alt="Web Counter" border="0" >
-                &copy; 2013 Genesis Journal - All rights reserved
+                &copy; 2013 Genesis Journals - All rights reserved
             </div>
 		</div>
 	</div>

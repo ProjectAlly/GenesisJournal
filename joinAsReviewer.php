@@ -70,7 +70,7 @@ $('#main').ready(function(){
 			  with consent form to <a href="mailto:pharmagenejournal@gmail.com">pharmagenejournal@gmail.com</a>. 
 			</p>
 			<p><b>Consent form is availaible for download.</b><br/>
-			    <a href="data/Reviewer consent form.pdf" target="_blank">
+			    <a href="data/Reviewer%20Consent%20Form.pdf" target="_blank">
 					<img src="images/pages/download_button.png" align="middle" height="20%" width="20%"/>
 				</a>
 			</p>

@@ -6,12 +6,6 @@
 <link rel="stylesheet" href="css/960.css" type="text/css" />
 <link rel="stylesheet" href="css/reset.css" type="text/css" />
 <link rel="stylesheet" href="css/style.css" type="text/css" />
-<script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="js/jquery-ui-1.7.2.custom.min.js"></script>
-<script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/jquery.cycle.min.all.js"></script>
-<script type="text/javascript" src="js/TitilliumText15L_100-TitilliumText15L_400.font.js"></script>
-<script type="text/javascript" src="js/custom.js"></script>
 <style type="text/css">
 
 body {
@@ -27,12 +21,6 @@ tr{border-bottom: 2px; border-bottom-style: inset;}
 table a {text-decoration: none; color:black;}
 table a:hover{ text-decoration: underline; }
 </style>
-<script type="text/javascript">
-
-Cufon.replace('http://chillyblues.chillyorange.com/h1');
-Cufon.replace('http://chillyblues.chillyorange.com/h2');
-</script>
-
 </head>
 
 <body>
@@ -87,7 +75,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                     <td>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     </td>
-                    <td><strong>[Abstract]</strong></td>
+                    <td><strong><a href="abstract.php?article=1" target="_blank">[Abstract]</a></strong></td>
                     <td><strong><a href="data/Articles/Pharmagene/Volume 1/1.pdf" target="_blank">[Full Text PDF]</a></strong></td>
                 </tr>
                 <!-- Article 1 ends -->
@@ -263,7 +251,7 @@ Cufon.replace('http://chillyblues.chillyorange.com/h2');
                     <td colspan="3">
                         <strong><br/><br/>
                             <i>Clinical manifestation of Obesity.</i>
-                            <br/>Javid Mansuri<sup>1*</sup>,Anand Pithadia<sup>1</sup>, Archana Navale1<sup>1</sup>, Rajesh KS<sup>1</sup>, Archana Paranjape<sup>2</sup>
+                            <br/>Javid Mansuri<sup>1*</sup>,Anand Pithadia<sup>11</sup>, Archana Navale1<sup>1</sup>, Rajesh KS<sup>1</sup>, Archana Paranjape<sup>2</sup>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>Director, Edutech learning solution Pvt. Ltd. ,Vadodara

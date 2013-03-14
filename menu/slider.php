@@ -1,15 +1,7 @@
 <script type="text/javascript">
-
 countdownFrom = 10;
-
 slideSpeed = 2000;
 slideTimeout = 10000;
-
-
-
-/* dont' edit anyting below here unless you're sure about what you're doinf  */
-
-
 $(window).load(function () {
   	getStarted()
 });

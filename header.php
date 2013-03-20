@@ -28,6 +28,8 @@ text-shadow: 0px 2px 0px green;
 	<a href="index.php"><img src="images/logo.png" alt="Genesis Journal"/></a>
     <div class="header">Genesis Journals</div>
 </div>
+    <img src="images/facebook-icon.png" />
+     <img src="images/Twitter_256x256.png" />
     <img style="float:right;  margin-right: 120px; margin-top: 4px;" src="images/coverpage.jpg" alt="Pharamgene" />
 <div class="clear"></div>
 

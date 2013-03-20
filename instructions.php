@@ -50,16 +50,6 @@ body {
 			</a>
 			</p>
             <!-- Instruction to author ends-->
-            <!-- call for paper starts-->
-            <br/><br/><br/><br/>
-            <h2>Call for Papers</h2>
-            <p><b>For more information regarding the call for paper for forthcoming issue click on the link below.. </b>
-                <br/>
-                <a href="data/call%20for%20papers.pdf" target="_blank">
-                    <img src="images/pages/download_button.png" align="middle" height="20%" width="20%"/>
-                </a>
-            </p>
-            <!-- call for paper ends-->
 		</div><!-- /#two_col -->
 
 		<div class="grid_5" id="one_col">

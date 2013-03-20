@@ -5,7 +5,7 @@
 	
 		<div>
 			<ul class="services">
-				<li><a href="subscribe.php">Subcribe to our articles</a></li>
+				<li><a href="subscribe.php">Subcribe</a></li>
 				<li><a href="submitArticle.php">Submit your articles</a></li>
 				<li><a href="joinAsReviewer.php">Join as a reviewer</a></li>
 			</ul>

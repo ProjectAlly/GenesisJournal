@@ -10,7 +10,15 @@
     </li>
     <li>
         <img src="images/pages/submit.jpg" width="20" height="20"/>
+        <a href="callforpapers.php#display">Call for Papers </a>
+    </li>
+    <li>
+        <img src="images/pages/submit.jpg" width="20" height="20"/>
         <a href="submitArticle.php#display">Submit article</a>
+    </li>
+    <li>
+        <img src="images/pages/submit.jpg" width="20" height="20"/>
+        <a href="abstractingandindexing.php#display">Abstracting and Indexing</a>
     </li>
     <li>
         <img src="images/pages/submit.jpg" width="20" height="20"/>

@@ -21,9 +21,7 @@ tr{border-bottom: 2px; border-bottom-style: inset;}
 table a {text-decoration: none; color:black;}
 table a:hover{ text-decoration: underline; }
 
-.temp {
-    text-decoration: none;
-}
+
 </style>
 </head>
 
@@ -68,7 +66,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong>
                             <h6><i>Synthesis, Characterization and Evaluation of Quaternary Compounds of 4-(N-Substituted)-3-Pyridyl-5-Mercapto-S-Triazole with Secondary Amines.</i></h6>
-                            <a style="text-decoration: none">Anil Manikrao<sup>*1</sup></a>, Prafulla M Sabale<sup>2</sup>, Prashant Prajapati<sup>2</sup>
+                            <a>Anil Manikrao<sup>*1</sup></a>, <a>Prafulla M Sabale<sup>2</sup></a>, <a>Prashant Prajapati<sup>2</sup></a>
                         </strong>
                         <br/><sup>1</sup>Food and drug administration, 1st floor Dr. B. R. Ambedkar Market, Jalgaon-425 001
                         <br/><sup>2</sup>Department of Pharma Chemistry, Parul Institute of Pharmacy, Limda-391 760, Vadodara, Gujarat.
@@ -89,7 +87,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Development and Validation of Derivative Spectroscopic Method For Estimation of Acebrophylline In Bulk And Its Dosage Form and In Presence of Impurity, Ambroxol HCl.</i></h6>
-                            Bhagavati Solanki<sup>1</sup>, Harshal Trivedi<sup>2</sup>, Ankita Khodiyar<sup>1</sup>, Falguni Tandel<sup>1</sup>, Lalit Lata Jha<sup>1</sup>, Rajesh KS<sup>1</sup>
+                            <a>Bhagavati Solanki<sup>1</sup></a>, <a>Harshal Trivedi<sup>2</sup></a>, <a>Ankita Khodiyar<sup>1</sup></a>, <a>Falguni Tandel<sup>1</sup></a>, <a>Lalit Lata Jha<sup>1</sup></a>, <a>Rajesh KS<sup>1</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>Analytical Research Lab, Cadila Pharmaceutical Ltd., Vadodara, India.
@@ -108,7 +106,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Invitro Anticancer Activity of Rubia Cordifolia Against Hep G 32 Cell Line.</i></h6>
-                            Parag R. Patel<sup>1</sup>, Nikita N. Patel<sup>1</sup>, Maulik P. Suthar<sup>2</sup>, Rajesh KS<sup>1</sup>, L. D. Patel<sup>3</sup>
+                            <a>Parag R. Patel<sup>1</sup></a>, <a>Nikita N. Patel<sup>1</sup></a>, <a>Maulik P. Suthar<sup>2</sup></a>, <a>Rajesh KS<sup>1</sup></a>, <a>L. D. Patel<sup>3</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>S.K. Patel College of Pharmaceutical Education and Research, Kherva-Mehsana, India
@@ -127,7 +125,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>RP-HPLC Method Development and Validation for Estimation of Drospirenone and Ethinyl Estradiol in Bulk and Combined Dosage Form.</i></h6>
-                            R. C. Patel<sup>*1</sup>, D. K. Rathod<sup>1</sup>, Rajesh KS<sup>1</sup>, V.S.Patel<sup>2</sup>
+                            <a>R. C. Patel<sup>*1</sup></a>, <a>D. K. Rathod<sup>1</sup></a>, <a>Rajesh KS<sup>1</sup></a>, <a>V.S.Patel<sup>2</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>L.B.Rao Institute of Pharmaceutical Education and Reasearch,Khambhat,Gujarat.
@@ -145,7 +143,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Synthesis, Characterization and Biological Evaluation of Substituted Novel Pyrazolone and Pyrazole Derivatives.</i></h6>
-                            Prafulla M Sabale<sup>*</sup>, Ronak S Patel, Chirag R Prajapati
+                            <a>Prafulla M Sabale<sup>*</sup></a>, <a>Ronak S Patel, Chirag R Prajapati</a>
                         </strong>
                         <br/>Department of Pharma Chemistry, Parul Institute of Pharmacy, Limda-391 760,Vadodara, Gujarat.
                     </td>
@@ -162,7 +160,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Development and Validation of Zero and First Order Derivative Spectrophotometric Methods For Determination of Oxcarbazepine In Pharmaceutical Dosage Forms.</i></h6>
-                            Nikita N. Patel<sup>1*</sup>, Rajesh KS<sup>1</sup>, Parag R. Patel<sup>1</sup>,  Jyotesh R. Jain<sup>2</sup>, Shailesh A.Shah<sup>2</sup>, Charmy S.Kothari<sup>3</sup>
+                            <a>Nikita N. Patel<sup>1*</sup></a>, <a>Rajesh KS<sup>1</sup></a>, <a>Parag R. Patel<sup>1</sup></a>,  <a>Jyotesh R. Jain<sup>2</sup></a>, <a>Shailesh A.Shah<sup>2</sup></a>, <a>Charmy S.Kothari<sup>3</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>Department of Quality Assurance, Maliba Pharmacy College, Bardoli, Gujarat, India
@@ -181,7 +179,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Spectrophotometric Estimation of Moclobemide Using Folin Ciocalteu’s Reagent.</i></h6>
-                            Shital V. Patel <sup>*1</sup>, M. B. Patel<sup>2</sup>, Rajesh KS<sup>1</sup>, T. Y. Pasha<sup>3</sup>
+                            <a>Shital V. Patel <sup>*1</sup></a>, <a>M. B. Patel<sup>2</sup></a>, <a>Rajesh KS<sup>1</sup></a>, <a>T. Y. Pasha<sup>3</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>K. B. Raval Institute of Pharmaceutical Education, Shertha, Gandhinagar
@@ -200,7 +198,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Solvent Free One Pot Microwave Synthesis of Quinazolin 4-(3H)-One Derivatives with their Antibacterial and Antifungal Activity.</i></h6>
-                            Akhil A. Nagar<sup>1*</sup>, Ashish Patel<sup>1</sup>, Rajesh KS<sup>1</sup>, Kishore R. Danao<sup>2</sup>, L.G. Rathi<sup>3</sup>
+                            <a>Akhil A. Nagar<sup>1*</sup></a>, <a>Ashish Patel<sup>1</sup></a>, <a>Rajesh KS<sup>1</sup></a>, <a>Kishore R. Danao<sup>2</sup></a>, <a>L.G. Rathi<sup>3</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>D.B. College of pharmacy, Besa, Nagpur- 440034
@@ -219,7 +217,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>A Novel Stability Indicating Liquid Chromatographic Method for the Estimation of Rimonabant Hydrochloride in Tablet Dosage Form.</i></h6>
-                            Dhara Rathod<sup>*1</sup>, Rikin Patel<sup>1</sup>, Bharat Chaudhari<sup>2</sup>, Rajesh KS<sup>1</sup>, Vipul Patel<sup>3</sup>
+                            <a>Dhara Rathod<sup>*1</sup></a>, <a>Rikin Patel<sup>1</sup></a>, <a>Bharat Chaudhari<sup>2</sup></a>, <a>Rajesh KS<sup>1</sup></a>, <a>Vipul Patel<sup>3</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>S.K.Patel College of Pharmaceutical Education and Research,Kherva,Mehsana,Gujarat.
@@ -238,7 +236,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Preparation and Evaluation of Effervescent Bioadhesive Vaginal Tablet of Itraconazole for Vaginal Candidiasis.</i></h6>
-                            Palak Patel<sup>*1</sup>,Vipul Barot<sup>*1</sup>, Bijal Prajapati<sup>*1</sup>, Rajesh KS<sup>*1</sup>, Lalit Lata Jha<sup>*1</sup>
+                            <a>Palak Patel<sup>*1</sup></a>,<a>Vipul Barot<sup>*1</sup></a>, <a>Bijal Prajapati<sup>*1</sup></a>, <a>Rajesh KS<sup>*1</sup></a>, <a>Lalit Lata Jha<sup>*1</sup></a>
                         </strong>
                         <br/><sup>*1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                     </td>
@@ -255,7 +253,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Clinical manifestation of Obesity.</i></h6>
-                            Javid Mansuri<sup>1*</sup>,Anand Pithadia<sup>11</sup>, Archana Navale1<sup>1</sup>, Rajesh KS<sup>1</sup>, Archana Paranjape<sup>2</sup>
+                            <a>Javid Mansuri<sup>1*</sup></a>,<a>Anand Pithadia<sup>11</sup></a>,<a> Archana Navale1<sup>1</sup></a>, <a>Rajesh KS<sup>1</sup></a>, <a>Archana Paranjape<sup>2</sup></a>
                         </strong>
                         <br/><sup>1</sup>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                         <br/><sup>2</sup>Director, Edutech learning solution Pvt. Ltd. ,Vadodara
@@ -273,7 +271,7 @@ table a:hover{ text-decoration: underline; }
                     <td colspan="3">
                         <strong><br/><br/>
                             <h6><i>Asthma Therapy in Ayurveda: An Ancient Scientific Approach.</i></h6>
-                            Madhavi Patel<sup>1*</sup>,Viral Desai<sup>2</sup>, Vishal Patel<sup>2</sup>
+                            <a>Madhavi Patel<sup>1*</sup></a>,<a>Viral Desai<sup>2</sup></a>,<a> Vishal Patel<sup>2</sup></a>
                         </strong>
                         <br/>Parul Institute of Pharmacy, Waghodia, Limda, Gujarat, India
                     </td>

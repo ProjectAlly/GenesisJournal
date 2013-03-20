@@ -19,7 +19,8 @@ table {
 tr{border-bottom: 2px; border-bottom-style: inset;}
 #contenthead{background-color:grey;   width:300px; height: 100px; color: black; text-align: center;  margin-left:170px;}
 table a {text-decoration: none; color:black;}
-table a:hover{ text-decoration: underline; }
+table a:hover{ text-decoration: none; }
+#bluetext{color:blue;}
 
 
 </style>
@@ -77,8 +78,8 @@ table a:hover{ text-decoration: underline; }
                     <td>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     </td>
-                    <td><strong><a href="abstract.php?article=1" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/1.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=1" ><span id="bluetext"><span id="bluetext">[Abstract]</span></span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/1.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 1 ends -->
 
@@ -96,8 +97,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=2" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/2.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=2" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/2.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 2 ends -->
 
@@ -115,8 +116,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=3" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/3.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=3" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/3.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 3 ends -->
 
@@ -133,8 +134,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=4" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/4.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=4" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/4.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 4 ends -->
 
@@ -150,8 +151,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=5" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/5.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=5" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/5.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 5 ends -->
 
@@ -169,8 +170,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=6" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/6.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=6" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/6.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 6 ends -->
 
@@ -188,8 +189,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=7" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/7.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=7" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/7.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 7 ends -->
 
@@ -207,8 +208,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=8" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/8.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=8" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/8.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 8 ends -->
 
@@ -226,8 +227,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=9">[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/9.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=9"><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/9.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 9 ends -->
 
@@ -243,8 +244,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=10">[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/10.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=10"><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/10.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 10 ends -->
 
@@ -261,8 +262,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=11">[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/11.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=11"><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/11.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 11 ends -->
 
@@ -278,8 +279,8 @@ table a:hover{ text-decoration: underline; }
                 </tr>
                 <tr>
                     <td></td>
-                    <td><strong><a href="abstract.php?article=12" >[Abstract]</a></strong></td>
-                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/12.pdf" target="_blank">[Full Text PDF]</a></strong></td>
+                    <td><strong><a href="abstract.php?article=12" ><span id="bluetext">[Abstract]</span></a></strong></td>
+                    <td><strong><a href="data/Articles/Pharmagene/Volume 1/12.pdf" target="_blank"><span id="bluetext">[Full Text PDF]</span></a></strong></td>
                 </tr>
                 <!-- Article 12 ends -->
             </table>

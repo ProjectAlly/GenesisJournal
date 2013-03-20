@@ -18,9 +18,13 @@ text-shadow: 0px 2px 0px green;
 </style>
 
 <div class="grid_16" id="top">
-    <!-- while implementing search remove the below mentioned comment-->
-    <!--<p id="qsm">for search</p>-->
-
+	
+	<p id="qsm"></p>
+    <p style="float: right">
+	    <img src="images/facebook-icon.png" />
+	    <img src="images/Twitter_256x256.png" />
+	</p>
+    
 </div>
 <div class="clear"></div>
 
@@ -28,8 +32,6 @@ text-shadow: 0px 2px 0px green;
 	<a href="index.php"><img src="images/logo.png" alt="Genesis Journal"/></a>
     <div class="header">Genesis Journals</div>
 </div>
-    <img src="images/facebook-icon.png" />
-     <img src="images/Twitter_256x256.png" />
     <img style="float:right;  margin-right: 120px; margin-top: 4px;" src="images/coverpage.jpg" alt="Pharamgene" />
 <div class="clear"></div>
 

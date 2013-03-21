@@ -15,14 +15,20 @@ margin-top: -60px;
 margin-left: 120px;
 text-shadow: 0px 2px 0px green;
 }
+#qsm { font-size: 14px;}
 #qsm a{color:white; text-decoration: none; text-shadow: 0px 2px 0px green;}
-#qsm a:hover{color:white; text-decoration: underline; text-shadow: 0px 2px 0px green;}
+#qsm a:hover{color:white; text-decoration: none; text-shadow: 0px 3px 0px green;}
 </style>
 
 <div class="grid_16" id="top">
 	
 	<p id="qsm" style="text-align: center;">
+	    <span style="float: right; margin-left: 20px; margin-right: 30px;">
+	    <a href="search.php"><img src="images/search.png" width="25" height="25" /></a>
+		</span>
+		<span style="float: right;">
 		<a href="search.php">SEARCH FOR ARTICLES</a>
+		</span>
 	</p>
     <p style="float: right">
 	    <img src="images/facebook-icon.png" />

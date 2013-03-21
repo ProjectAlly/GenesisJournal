@@ -19,7 +19,8 @@ function checkform()
 {
 	var searchf = document.getElementById('searchfield');
 	if (search.value == " ") {
-		alert('The search field cannot be empty');
+		var theDiv = document.getElementById("<ID_OF_THE_DIV>");
+		theDiv.innerHTML += "<YOUR_CONTENT>"; 
 		return false;
 	}
 	var elem=document.forms['searchbox'].elements['search_type'];
@@ -68,6 +69,7 @@ function checkform()
 				<input type="radio" name="search_type" id="search_type" value="author" />Author<br/>
 				<input type="radio" name="search_type" id="search_type" value="keyword" />Keyword<br/>
 				<input type="hidden" name="submitted" value="1" />
+				<div id="error"></div>
 				</form>
 			<?php 	
 				if(isset($_POST['submitted'])){

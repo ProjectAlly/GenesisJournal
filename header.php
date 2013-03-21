@@ -15,11 +15,15 @@ margin-top: -60px;
 margin-left: 120px;
 text-shadow: 0px 2px 0px green;
 }
+#qsm a{color:white; text-decoration: none; text-shadow: 0px 2px 0px green;}
+#qsm a:hover{color:white; text-decoration: underline; text-shadow: 0px 2px 0px green;}
 </style>
 
 <div class="grid_16" id="top">
 	
-	<p id="qsm"></p>
+	<p id="qsm" style="text-align: center;">
+		<a href="search.php">SEARCH FOR ARTICLES</a>
+	</p>
     <p style="float: right">
 	    <img src="images/facebook-icon.png" />
 	    <img src="images/Twitter_256x256.png" />

@@ -20,7 +20,7 @@ body {
 
 <body>
 <?php 
-	$abs_file = "data/Articles/Pharmagene/Volume 1/abstracts/abstract_".$_GET['article'].".php";
+	$abs_file = "data/Articles/Pharmagene/volume1/abstracts/abstract_".$_GET['article'].".php";
 ?>
 
 	<div class="container_16" id="main">
